@@ -1,7 +1,7 @@
 # CS-370-Current-Emerging-trends
 Basic concepts and techniques that pertain to artificial intelligence and intelligent systems. As well as current trends and emerging technologies in Computer Science for their impacts on society.
 
-CS 370 Portfolio Reflection
+## CS 370 Portfolio Reflection
 
 In this project, it was required to develop an intelligent pirate agent capable of navigating a maze using reinforcement learning. The project provided starter code for the TreasureMaze environment, the GameExperience class for experience replay, and portions of the training framework. These handled the maze layout, tracked the agent's experiences, and provided the basic structure needed for training.
 
