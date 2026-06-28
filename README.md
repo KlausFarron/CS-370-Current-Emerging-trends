@@ -7,7 +7,7 @@ In this project, it was required to develop an intelligent pirate agent capable 
 My job was to implement a Deep Q-Learning algorithm by creating a neural network model that estimated Q-values for each possible action. I also implemented experience replay by training the network on randomly sampled past experiences so the pirate gradually learned the optimal path to the treasure.
 
 
-What do computer scientists do and why does it matter?
+**What do computer scientists do and why does it matter?**
 
 Computer scientists design and develop algorithms and software to solve complex problems. Throughout this course, I learned that artificial intelligence does not simply follow fixed instructions but can learn from data and improve its performance over time. This has become important because AI is increasingly being used in areas such as healthcare, transportation, cybersecurity, and scientific research. 
 
